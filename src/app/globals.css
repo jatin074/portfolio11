@@ -2,7 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-html , body {
+html,
+body {
   scroll-behavior: smooth;
 }
 
@@ -652,6 +653,7 @@ body {
   object-fit: cover;
   background-color: #ffffff;
   border-radius: 6px;
+  object-position: top;
 }
 
 
@@ -941,6 +943,7 @@ body {
     opacity: 1;
     z-index: -1;
   }
+
   .footer {
     position: relative;
     min-height: 340px;
@@ -948,6 +951,7 @@ body {
     overflow: hidden;
     padding-top: 100px;
   }
+
   .footer::before {
     background-image: url(/images/footer-bg.svg);
     background-position: center;
@@ -966,8 +970,8 @@ body {
 
 
   .slide-items img {
-    height: 200px;
-    max-width: 300px;
+    height: 150px;
+    max-width: 280px;
   }
 
   /* :root {
