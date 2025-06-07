@@ -10,6 +10,7 @@ export default function Work() {
         "/images/work/work.png",
         "/images/work/work1.png",
         "/images/work/work6.png",
+        "/images/work/work6.1.png",
         "/images/work/work2.jpg",
         "/images/work/work3.jpg",
         "/images/work/work4.jpg",
