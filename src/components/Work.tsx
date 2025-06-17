@@ -5,6 +5,12 @@ import EmblaSlider from './Slider';
 
 export default function Work() {
     const firstImages = [
+        "/images/work/work0.7.png",
+        "/images/work/work0.8.png",
+        "/images/work/work0.9.png",
+        "/images/work/work0.91.png",
+        "/images/work/work0.92.png",
+        "/images/work/work0.93.png",
         "/images/work/work0.png",
         "/images/work/work1.0.png",
         "/images/work/work.png",
