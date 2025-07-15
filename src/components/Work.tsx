@@ -8,32 +8,35 @@ export default function Work() {
         "/images/work/work0.7.png",
         "/images/work/work0.8.png",
         "/images/work/work0.9.png",
-        "/images/work/work0.91.png",
-        "/images/work/work0.92.png",
         "/images/work/work0.93.png",
+        "/images/work/work0.91.png",
+
+        "/images/work/work0.92.png",
+        "/images/work/work21.png",
+        "/images/work/work22.png",
+        "/images/work/work23.png",
+        "/images/work/work24.png",
+        "/images/work/work25.png",
+    ];
+
+    const secondImages = [
+        // "/images/work/work9.png",
+        // "/images/work/work10.png",
+        // "/images/work/work11.png",
+        // "/images/work/work12.png",
+        // "/images/work/work13.png",
+        // "/images/work/work14.png",
+        // "/images/work/work15.png",
+        // "/images/work/work16.png",
+        // "/images/work/work17.png",
+        // "/images/work/work18.png",
         "/images/work/work0.png",
         "/images/work/work1.0.png",
         "/images/work/work.png",
         "/images/work/work1.png",
         "/images/work/work6.png",
         "/images/work/work6.1.png",
-        "/images/work/work2.jpg",
-        "/images/work/work3.jpg",
-        "/images/work/work4.jpg",
-        "/images/work/work7.png"
-    ];
-
-    const secondImages = [
-        "/images/work/work9.png",
-        "/images/work/work10.png",
-        "/images/work/work11.png",
-        "/images/work/work12.png",
-        "/images/work/work13.png",
-        "/images/work/work14.png",
-        "/images/work/work15.png",
-        "/images/work/work16.png",
-        "/images/work/work17.png",
-        "/images/work/work18.png",
+        "/images/work/work7.png",
     ];
     return (
         <div className='pt-[70px] sm:py-[100px]'>
